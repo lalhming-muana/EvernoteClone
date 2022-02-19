@@ -1,0 +1,20 @@
+.top-menu {
+    height: 15px;
+}
+
+.main-container {
+    display: flex;
+    margin-top: 5px;
+    padding-top: 5px;
+  }
+  
+#first-pane{
+    background-color: grey;
+    width: 20%;
+}
+
+#second-pane{
+    background-color: greenyellow;
+    width: 80%;
+}
+
