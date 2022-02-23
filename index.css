@@ -1,20 +1,50 @@
+
 .top-menu {
     height: 15px;
+}
+
+.a{
+    padding-left: 1px;
+    font-weight: bold;
+    height: 3px;
 }
 
 .main-container {
     display: flex;
     margin-top: 5px;
     padding-top: 5px;
+    height: 100vh;
   }
   
 #first-pane{
-    background-color: grey;
+    background-color: #051409;
     width: 20%;
+    padding-left: 5px;
+    height: auto !important;
 }
 
 #second-pane{
-    background-color: greenyellow;
+    background-color: white;
     width: 80%;
+    padding-left: 5px;
+    height: auto !important;
 }
 
+#search{
+    width: 90%;
+    margin-bottom: 6px;
+    border-radius: 25px;
+    height: 5%;
+
+}
+
+#new-btn{
+    width: 90%;
+    height: 5%;
+    text-align: center;
+    background-color: #03942a;
+    color: white;
+    font-weight: bold;
+    border-radius: 25px;
+
+}
