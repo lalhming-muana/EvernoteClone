@@ -14,8 +14,15 @@
     margin-top: 5px;
     padding-top: 5px;
     height: 100vh;
+    border: 2px white solid;
   }
+
+.sub-title{
+    color: white;
+    font-weight: bold;
+}
   
+
 #first-pane{
     background-color: #051409;
     width: 20%;
