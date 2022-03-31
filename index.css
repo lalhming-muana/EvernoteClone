@@ -1,7 +1,29 @@
 
 .top-menu {
-    height: 15px;
+    height: 100%;
+    background-color: #076161;
+    color: menu;
+    font-weight: bold;
 }
+
+#main-title{
+    color: white;
+}
+
+.fa-home{
+    margin-top: 20px;
+    margin-left: 10px;
+    color: white;
+
+}
+
+.fa-trash{
+    margin-top: 20px;
+    margin-left: 10px;
+    color: white;
+
+}
+
 
 .a{
     padding-left: 1px;
@@ -14,8 +36,15 @@
     margin-top: 5px;
     padding-top: 5px;
     height: 100vh;
+    border: 2px white solid;
   }
+
+.sub-title{
+    color: white;
+    font-weight: bold;
+}
   
+
 #first-pane{
     background-color: #051409;
     width: 20%;
@@ -35,6 +64,7 @@
     margin-bottom: 6px;
     border-radius: 25px;
     height: 5%;
+    text-align: center;
 
 }
 
